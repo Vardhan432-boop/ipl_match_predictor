@@ -133,6 +133,9 @@ streamlit run app.py
 * Ball-by-ball win probability
 
 ---
+#Live Link 🌏
+
+https://iplmatchpredictor-dq8cpur9tbaqoygtcazree.streamlit.app/
 
 # Learning Outcomes 📚
 
